@@ -31,18 +31,20 @@
       "parentId":2
     }
   ],
-  "profile": [{
-    "id": 1,
-    "name": "Đạt Trịnh",
-    "city": "Hà Nội",
-    "district": "Hai Bà Trưng",
-    "address": "địa chỉ cụ thể"
-  },
-     {
-    "id": 2,
-    "name": "Đạt Trịnh 2",
-    "city": "Hà Nội",
-    "district": "Hoàn Kiếm",
-    "address": "địa chỉ cụ thể 2"
-  }]
+  "profile": [
+    {
+      "id": 1,
+      "name": "Đạt Trịnh",
+      "city": "Hà Nội",
+      "district": "Hai Bà Trưng",
+      "address": "địa chỉ cụ thể"
+    },
+    {
+      "id": 2,
+      "name": "Đạt Trịnh 2",
+      "city": "Hà Nội",
+      "district": "Hoàn Kiếm",
+      "address": "địa chỉ cụ thể 2"
+    }
+  ]
 }
